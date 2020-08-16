@@ -5,7 +5,7 @@ import pickle
 from loguru import logger
 import pkgutil
 import pkg_resources
-import dill
+
 
 class TurkishStemmerDeasciifier:
 

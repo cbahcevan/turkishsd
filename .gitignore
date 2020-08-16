@@ -1,0 +1,6 @@
+build/
+dist/
+turkishsd.egg-info/
+word_forms_stems_and_frequencies_full.txt
+turkishstemmerdeasciifier.egg-info/
+*.pyc

@@ -1,0 +1,3 @@
+include requirements.txt
+include data/*.txt
+include data/*.pkl

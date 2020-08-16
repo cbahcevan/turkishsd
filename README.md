@@ -1,6 +1,6 @@
 # Simple Turkish Stemmer and Deasciifier 
 
-It is a simple corpus based Turkish stemmer and deasciifier. Generally, it tries to produce all vowel manipulation combinations of the word and search that candidates in the corpus.
+It is a simple corpus based Turkish stemmer and deasciifier. Generally, it tries to produce all letter(vowel, consonant) manipulation combinations of the word and search that candidates in the corpus.
 
 - It works in Python3.6+
 -  based on @akoksal lemmatizer project

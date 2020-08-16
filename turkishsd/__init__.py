@@ -1,3 +1,3 @@
-from . import turkishstemmerdeasciifier
+from . import turkishsd
 from . import tokenizers
 from . import deasciifier

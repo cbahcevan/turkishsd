@@ -22,7 +22,7 @@ sudo python3 setup.py install
 
 Installation of Windows
 ```
-git clone https://github.com/cbahcevan/turkishsd.git
+git lfs clone https://github.com/cbahcevan/turkishsd.git
 cd turkishsd
 python3 setup.py install
 ```
